@@ -1,0 +1,52 @@
+python assignment.py
+enter the test data set needed : 1,2,3 3
+Enter choices for
+1)Author Identification
+2)Display Cross Entropy
+3)Generate Text
+4)Exit1
+The cross entropy values for each of the models: 
+
+[[7.502231539], [7.787816093], [10.93455222]]
+Corpus 3
+[10.93455222]
+[[7.502231539], [7.787816093], [10.93455222]]
+[[9.60646946], [11.00387203], [19.35776137]]
+[[11.14211986], [12.51574092], [15.45414169]]
+Enter choices for
+1)Author Identification
+2)Display Cross Entropy
+3)Generate Text
+4)Exit2
+1)Cross entropy for UNIGRAM model:
+
+[15.45414169]
+[12.51574092]
+[11.14211986]
+2)Cross entropy for BIGRAM model:
+
+[19.35776137]
+[11.00387203]
+[9.60646946]
+3)Cross entropy for TRIGRAM model:
+
+[10.93455222]
+[7.787816093]
+[7.502231539]
+Enter choices for
+1)Author Identification
+2)Display Cross Entropy
+3)Generate Text
+4)Exit3
+For corpus 1
+( pursuit , it is to have mentioned . . ` How could you possibly have . I am happily quite an invalid of that if
+For corpus 2
+that ' s come !-- Finsbury ' s sign nor Louisa ' s little hand . " What ! not a whit the worse for .
+For corpus 3
+, antiseptic yet , and all that blab whose echoes recoil upon me ; Behold with the master away ? Nevertheless , be it weeks months
+Enter choices for
+1)Author Identification
+2)Display Cross Entropy
+3)Generate Text
+4)Exit4
+
